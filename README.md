@@ -1,6 +1,6 @@
 # Resume-Application-Tracking-System(ATS)
 
-### An IIntelligent Applicant Tracking System (ATS) using Google's Generative AI. It analyzes resumes against job descriptions, providing valuable feedback to job seekers.
+### An Intelligent Applicant Tracking System (ATS) using Google's Generative AI. It analyzes resumes against job descriptions, providing valuable feedback to job seekers.
 
 # Outputs
 ![Screenshot (230)](https://github.com/Shreya-Reddy-A/Resume-Application-Tracking-System-ATS/assets/122392746/65f6e846-20e3-4a35-819c-3fbd8945c332)
